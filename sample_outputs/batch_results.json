@@ -1,0 +1,13 @@
+[
+  {
+    "input_file": "customer_call_1.wav",
+    "transcription": "sorry i didn't catch that could you please repeat",
+    "reply_text": "Hello, I am ZentroMart's AI assistant. \n\nHow can I help you today?",
+    "output_audio": "reply_customer_call_1.wav",
+    "retrieved_sources": [
+      "pol_returns_v4.md",
+      "pol_returns_v3_superseded.md",
+      "pol_refunds.md"
+    ]
+  }
+]
